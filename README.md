@@ -27,7 +27,7 @@ Thanks to emre1393 for being the wisdom of xui community
 Update your ubuntu first, then install panel:
 ``` 
 sudo apt update && sudo apt full-upgrade -y && sudo apt install python2 -y;  
-wget https://github.com/NeySlim/xtreamui_mirror/raw/master/install.py; 
+wget https://github.com/adilem/xtreamui-ubuntu20/raw/master/install.py; 
 sudo python2 install.py 
 ```
   
